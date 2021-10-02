@@ -1,0 +1,9 @@
+Objet = une boite qui possède un nom, des données et des comportement(méthode)
+
+Ex: Un gateau à une saveur (c a d une donnée), capacité à être coupé en part(= comportement)
+
+les Objets et le données peuvent être stockés dans des variables
+
+
+Objet créé à partir de classe (= plan)
+classe = sert à définir les attributs et les comportements des Objets
